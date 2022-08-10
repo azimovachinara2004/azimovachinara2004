@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.gl8xk1Tj8dM6Ng-4FErOQgHaDm?w=345&h=169&c=7&r=0&o=5&dpr=1.5&pid=1.7"/>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chinara-azimova-15980223a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chinara-azimova-15980223a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chinara-azimova-15980223a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chinara-azimova/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
